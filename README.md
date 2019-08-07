@@ -3,7 +3,17 @@ A Go Rest API in with MySQL Database and JWT
 
 Postman Collection : [PostMan API Docs And Collection](https://documenter.getpostman.com/view/5756370/SVYruKML?version=latest)
 
-Database Configuration in .env file
+Database Configuration 
+1. Open your .env file
+2. Change the following variables accordingly
+
+```
+db_name = go_contacts
+
+db_pass = password
+
+db_user = root
+```
 
 #### Running the project:
 1. Clone to your go workspace folder and copy to src directory
