@@ -8,11 +8,11 @@ Database Configuration
 2. Change the following variables accordingly
 
 ```
-db_name = go_contacts
+db_name = go_contacts  //your database
 
-db_pass = password
+db_pass = password //db password
 
-db_user = root
+db_user = root //db username
 ```
 
 #### Running the project:
